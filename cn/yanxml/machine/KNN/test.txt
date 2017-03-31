@@ -1,0 +1,18 @@
+KNN.pointsTestDataWithColor()
+KNN.testNum(0,0,3)
+KNN.testNumWithPlot(0,0,3)
+KNN.pointsFileDataWithColor(0,1)
+KNN.pointsFileDataWithColor(1,2)
+KNN.pointsFileNormDataWithColor(0,1)
+KNN.pointsFileNormDataWithColor(1,2)
+KNN.pointsFileNormTestDataWithColor(0,1)
+KNN.pointsFileNormTestDataWithColor(1,2)
+KNN.pointsFileNormAllDataWithColor(0,1)
+KNN.pointsFileNormAllDataWithColor(1,2)
+KNN.datingRealClassTest()
+KNN.datingClassTest()
+KNN.handwritingClassTest()
+
+from imp import reload   
+reload(KNN)
+ 
