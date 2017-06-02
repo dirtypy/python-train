@@ -13,7 +13,7 @@
 文本: `{'no surfacing': {0: 'no', 1: {'flippers': {0: 'no', 1: 'yes'}}}}
 `
 
-plot树状图: ![树状图示例](plot_example.png)
+plot树状图: ![树状图示例](plot_example.jpeg)
 
 
 ## operator 1 获取香农熵值
