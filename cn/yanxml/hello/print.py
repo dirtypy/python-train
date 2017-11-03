@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+#coding=gbk
+
+
+#µÚÒ»¸ö×¢ÊÍ
+print("Hello , Python !")
